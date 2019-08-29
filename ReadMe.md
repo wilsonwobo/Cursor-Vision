@@ -20,6 +20,7 @@
   * PyAutoGUI 0.9.42
 
 ## To Start:
+### Command Shell Setup
 This setup method is intended for both the Windows® and Linux operating systems. However, to avoid repetition, this setup method will be demonstrated on a Windows® system only.
 * Visit the [Python Downloads](https://www.python.org/downloads/) webpage
 * Download an accepted python distribution (i.e. Python 3.5+)
@@ -39,3 +40,16 @@ This setup method is intended for both the Windows® and Linux operating systems
 * Execute the program using the command: *python3 Cursor Vision.py*  
 **NOTE: For step 15 to work, you must correctly connect a webcam into your PC and follow its instruction manual to install all of its up-to-date drivers.**
 
+### Windows Installer Setup
+This setup method is intended for the Windows® operating system only, as it involves the use of a *.exe* file which only functions on Windows® distributions.
+* Navigate to the Setup GitLab directory
+* Locate the download icon (i.e. top-right corner)
+* Select the format you wish to download the file as (i.e. *.zip*, *.tar.gz*, etc…)
+* Locate the file in your local downloads folder
+* Extract the contents of the file
+* Open the folder holding the extracted setup files
+* Locate the first *setup.7z* file without any further extensions (i.e. *.002*, *.003*, etc...)
+* Extract the contents of the file
+* Double-click on the *setup.exe* file
+**NOTE: You must have 7-Zip installed to extract *.7z* files.**
+* Follow the setup instructions to ensure that Cursor Vision is correctly installed
