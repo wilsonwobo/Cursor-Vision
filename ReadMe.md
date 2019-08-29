@@ -53,7 +53,7 @@ This setup method is intended for the Windows® operating system only, as it inv
 * Double-click on the *setup.exe* file  
 **NOTE: You must have 7-Zip installed to extract *.7z* files.**
 * Follow the below setup instructions to ensure that Cursor Vision is correctly installed:
- * Select Download Location
- * Create a Desktop Shortcut
- * Commence Installation
+ * Select download location
+ * Create a desktop shortcut
+ * Commence installation
  * Launch Cursor Vision & Finish installation
