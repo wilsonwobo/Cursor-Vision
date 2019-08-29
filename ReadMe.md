@@ -38,7 +38,7 @@ This setup method is intended for both the Windows® and Linux operating systems
 * Open the Windows® command shell
 * Navigate to the downloads folder using the command: *cd <PATH>/ Users/ … / Downloads*
 * Execute the program using the command: *python3 Cursor Vision.py*  
-**NOTE: For step 15 to work, you must correctly connect a webcam into your PC and follow its instruction manual to install all of its up-to-date drivers.**
+**NOTE: For this step to work, you must correctly connect a webcam into your PC and follow its instruction manual to install all of its up-to-date drivers.**
 
 ### Windows Installer Setup
 This setup method is intended for the Windows® operating system only, as it involves the use of a *.exe* file which only functions on Windows® distributions.
