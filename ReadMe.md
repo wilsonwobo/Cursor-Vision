@@ -4,11 +4,11 @@
 * This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Python version 3.5+ & OpenCV Contrib version 4.0.0.21, Other systems have not been tested, and it is advised to have caution with untested OS.
 
 ## Software Requirements
-* Python Distributions:
+### Python Distributions:
   * Python 3.5.X
   * Python 3.6.X
   * Python 3.7.X
-* Library Dependencies:
+### Library Dependencies:
   * pip 19.0.3
   * numpy 1.16.1
   * SciPy 1.2.1
