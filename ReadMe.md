@@ -50,6 +50,6 @@ This setup method is intended for the Windows® operating system only, as it inv
 * Open the folder holding the extracted setup files
 * Locate the first *setup.7z* file without any further extensions (i.e. *.002*, *.003*, etc...)
 * Extract the contents of the file
-* Double-click on the *setup.exe* file
+* Double-click on the *setup.exe* file  
 **NOTE: You must have 7-Zip installed to extract *.7z* files.**
 * Follow the setup instructions to ensure that Cursor Vision is correctly installed
