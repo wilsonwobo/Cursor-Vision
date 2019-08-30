@@ -1,5 +1,8 @@
 # Cursor Vision (Eye-Tracking Software)
 
+## Explanation
+Over the past decades, humans have found ways to simplify tasks allowing strenuous workloads to be reduced in one way or the other. Ranging from the mechanization of factories to the introduction of robots into households. However, this project looked to push the boundaries further and sought to find methods, which would further enhance human-computer interactions with user interfaces. By making convenient navigation tasks, like moving the cursor and simulating clicks possible, using the eyes as an input device instead of the known conventions (the mouse). Opening doors for current technologies to be further optimized towards increasing both disabled and occupied user’s workflows, whenever the use of their hands is no longer an option. Requiring none more than a suitable operating system (such as Windows® or Linux OS) and a front-facing 1080p webcam to be operated. 
+
 ## Platform Recommendation
 * This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Python version 3.5+ & OpenCV Contrib version 4.0.0.21, Other systems have not been tested, and it is advised to have caution with untested OS.
 
